@@ -61,13 +61,9 @@ Visualize a binomial distribution using Matplotlib and Seaborn.
 
 - Script: `binomial.py`
 - Command to run: python binomial.py
-
 - ### ScreenShots
 - we have also provided screenshots with .png extension after running the codes for the exapmles above.
-- 
 Feel free to explore and modify the code examples to suit your specific needs for probability distribution visualization.
-
-- 
 
 
 
