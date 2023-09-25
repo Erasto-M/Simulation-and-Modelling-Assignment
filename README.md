@@ -40,21 +40,18 @@ Visualize a uniform distribution using Matplotlib and Seaborn.
 
 - Script: `uniform.py`
 - Command to run:  python uniform.py
-- 
 ### Normal Distribution
 
 Visualize a normal distribution using Matplotlib and Seaborn.
 
 - Script: `normal.py`
 - Command to run: python normal.py
-- 
 ### Exponential Distribution
 
 Visualize an exponential distribution using Matplotlib and Seaborn.
 
 - Script: `exponential.py`
 - Command to run: python exponential.py
-- 
 ### Binomial Distribution
 
 Visualize a binomial distribution using Matplotlib and Seaborn.
