@@ -18,8 +18,8 @@ To run the code examples, you need the following prerequisites:
 - scipy
 
 You can install the required Python packages using pip:
- pip install matplotlib
- pip install seaborn
+ pip install matplotlib ,
+ pip install seaborn ,
  pip install scipy
  
 ## Usage
